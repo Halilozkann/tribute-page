@@ -1,0 +1,28 @@
+.header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #444;
+  color: #fff;
+  padding: 10px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.sidebar {
+  background-color: #ccc;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
